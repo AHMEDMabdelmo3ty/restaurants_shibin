@@ -1,0 +1,4 @@
+#Fri Sep 03 01:03:08 EET 2021
+base.0=E\:\\shibin_restaurants\\restaurants_shibin\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

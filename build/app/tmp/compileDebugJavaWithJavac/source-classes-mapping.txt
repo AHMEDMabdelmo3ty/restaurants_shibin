@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/abdelmo3ty/restaurants_shibin/BuildConfig.java
+ com.abdelmo3ty.restaurants_shibin.BuildConfig
